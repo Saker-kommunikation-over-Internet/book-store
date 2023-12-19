@@ -1,0 +1,14 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text-container {
+    align-self: center;
+}
+
+.placeholder-img {
+  width: 100%;
+}
